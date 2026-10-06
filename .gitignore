@@ -1,3 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+data/raw/
+
+# Publication safety
 .env
 .env.*
 *.key

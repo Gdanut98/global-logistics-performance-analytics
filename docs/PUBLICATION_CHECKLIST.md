@@ -1,0 +1,12 @@
+# Publication Checklist
+- [x] Source-derived statistics documented
+- [x] Forecast values and confidence intervals documented
+- [x] Composite-index regression caveat documented
+- [x] Sparse time-series limitation documented
+- [x] Employer-facing case study
+- [x] Interview one-pager
+- [x] Reusable reference functions
+- [ ] Refactor executed notebook into clean public notebooks
+- [ ] Export final charts
+- [ ] Add cleaned source data only if redistribution is appropriate
+- [ ] Publish repository
